@@ -6,3 +6,5 @@ singleNumber=$((1+RANDOM%5))
 
 
 echo "Enter the Random Number: $singleNumber"
+
+
