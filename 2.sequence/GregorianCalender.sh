@@ -36,5 +36,7 @@ dayOne=$((($day + $leapYear + $(((31$monthOne/12)))) %7 ))
 	then
 		echo "SATURDAY"
 	fi
+
+
 	
 
