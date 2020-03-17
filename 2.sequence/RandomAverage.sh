@@ -9,3 +9,5 @@ average=$(($(($(( RANDOM % 100 )) + $(( RANDOM % 100 )) + $(( RANDOM % 100 )) + 
 #TO PRINT RESULT
 
 echo "Sum And The Average: $average" 
+
+
