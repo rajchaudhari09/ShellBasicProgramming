@@ -49,6 +49,8 @@ then
 	maximum=$fourthNumber
 
 else
+
+
 	maximum=$fifthNumber
 fi
 echo "maximum number is: " $maximum
