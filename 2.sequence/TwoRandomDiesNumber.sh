@@ -8,3 +8,5 @@ RandomDiesNumber=$(($(( RANDOM % 10 )) + $(( RANDOM % 10 ))))
 	
 #TO PRINT RESULT
 echo "Two Random Dies Number Are: $RandomDiesNumber" 
+
+
