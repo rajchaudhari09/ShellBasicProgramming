@@ -1,0 +1,20 @@
+#!/bin/bash -x
+
+function checkPalindrom()
+{
+	
+	if [[ $a -eq $b ]]
+	then
+		echo "number is Palindrome"
+	else
+		echo "number is Not Palindrome"
+	fi
+}
+checkPalindrom
+#function getValue()
+#{
+#	local numberOne
+#	read -p "Enter the Palindrome number: "$numberOne
+#	checkPalindrom $numberOne
+#}
+#getValue
