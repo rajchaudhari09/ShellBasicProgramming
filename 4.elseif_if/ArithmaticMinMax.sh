@@ -34,3 +34,5 @@ then
 else
 	echo "D3 is Minimum. " $D3
 fi
+
+
